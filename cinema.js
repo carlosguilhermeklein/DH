@@ -22,4 +22,3 @@ let novoFilme={
 
 
 //console.log(buscaFilme(catalogo, 2))
-console.log(funcoes.listarFilmesLongos(catalogo,120))
