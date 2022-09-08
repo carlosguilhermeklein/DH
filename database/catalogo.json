@@ -1,0 +1,74 @@
+[
+  {
+    "codigo": 1,
+    "titulo": "harry potter & a pedra filosofal",
+    "duracao": 100,
+    "atores": [
+      "daniel",
+      "rupert",
+      "emma"
+    ],
+    "anoDeLancamento": 2001,
+    "emCartaz": false
+  },
+  {
+    "codigo": 2,
+    "titulo": "harry potter & a camara secreta",
+    "duracao": 120,
+    "atores": [
+      "daniel",
+      "rupert",
+      "emma"
+    ],
+    "anoDeLancamento": 2003,
+    "emCartaz": true
+  },
+  {
+    "codigo": 3,
+    "titulo": "harry potter & o prisioneiro de askaban",
+    "duracao": 100,
+    "atores": [
+      "daniel",
+      "rupert",
+      "emma"
+    ],
+    "anoDeLancamento": 2001,
+    "emCartaz": true
+  },
+  {
+    "codigo": 4,
+    "titulo": "top gang",
+    "duracao": 100,
+    "atores": [
+      "charlie cheen",
+      "pelenope charmosa",
+      "dick vigarista"
+    ],
+    "anoDeLancamento": 2100,
+    "emCartaz": false
+  },
+  {
+    "codigo": 5,
+    "titulo": "harry potter & as reliquias da morte",
+    "duracao": 234,
+    "atores": [
+      "daniel",
+      "rupert",
+      "emma"
+    ],
+    "anoDeLancamento": 3000,
+    "emCartaz": true
+  },
+  {
+    "codigo": 6,
+    "titulo": "harry potter & a ordem da fenix",
+    "duracao": 123,
+    "atores": [
+      "daniel",
+      "rupert",
+      "emma"
+    ],
+    "anoDeLancamento": 1590,
+    "emCartaz": true
+  }
+]
